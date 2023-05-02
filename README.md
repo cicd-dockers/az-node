@@ -1,2 +1,2 @@
 # az-node
-docker image for cicd pipelines that deploy a node application to azure cloud
+docker image for cicd pipelines that build and deploy a node application to azure cloud
