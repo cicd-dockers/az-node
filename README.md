@@ -1,2 +1,2 @@
 # az-node
-docker file for deploying an node application to azure cloid
+docker image for cicd pipelines that deploy a node application to azure cloud
